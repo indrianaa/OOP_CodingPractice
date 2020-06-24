@@ -1,0 +1,20 @@
+//Deklarasi nama program
+OperasiBilanganAbsCetak
+
+//Deklarasi Variabel
+Declare
+var a,b,c:double
+
+//baca inputan
+
+double a = 10.5;
+double b = 2.5;
+
+//rumus
+double c = (get A + get B)
+	   (get A - get B)
+           (get A * get B)
+           (get A / get B)
+
+write (c)
+	   
